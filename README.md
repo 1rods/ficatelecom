@@ -22,7 +22,6 @@ Tecnologias Utilizadas
 Frontend: HTML, CSS, JavaScript, AJAX
 Backend: PHP com integração ao banco de dados MySQL
 Banco de Dados: MySQL
-Bot para WhatsApp: Node.js e VenomBot para interação com clientes e suporte
 Outras Ferramentas:
 cPanel: Hospedagem do site
 API para consulta de dados financeiros: Utilizada para verificar a data de nascimento e outras informações do cliente
